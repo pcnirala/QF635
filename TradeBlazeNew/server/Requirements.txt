@@ -1,0 +1,9 @@
+fastapi
+fastapi-utils
+typing-inspect
+uvicorn
+pydantic
+aiosqlite
+sqlite-utils
+duckdb
+bcrypt
